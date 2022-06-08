@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4n0n4ugur
 - 👀 I’m interested in quantum computing/cryptography, holograms, plasma physics, and >c travel
-- 🌱 I’m currently learning data science + blockchain development
+- 🌱 I’m currently learning data science + building a website for a native plant nursery
 - 💞️ I’m looking to collaborate on creating a more sustainable and equitable future
 - 📫 How to reach me mfederico46@protonmail.com
 
